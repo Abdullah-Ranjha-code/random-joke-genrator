@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/crypto-price-tracker/static/css/main.57b379ed.css",
-    "main.js": "/crypto-price-tracker/static/js/main.1a8ffe2b.js",
-    "static/js/488.9aa01a45.chunk.js": "/crypto-price-tracker/static/js/488.9aa01a45.chunk.js",
-    "index.html": "/crypto-price-tracker/index.html",
-    "main.57b379ed.css.map": "/crypto-price-tracker/static/css/main.57b379ed.css.map",
-    "main.1a8ffe2b.js.map": "/crypto-price-tracker/static/js/main.1a8ffe2b.js.map",
-    "488.9aa01a45.chunk.js.map": "/crypto-price-tracker/static/js/488.9aa01a45.chunk.js.map"
+    "main.css": "/random-joke-genrator/static/css/main.57b379ed.css",
+    "main.js": "/random-joke-genrator/static/js/main.a0d23080.js",
+    "static/js/488.9aa01a45.chunk.js": "/random-joke-genrator/static/js/488.9aa01a45.chunk.js",
+    "index.html": "/random-joke-genrator/index.html",
+    "main.57b379ed.css.map": "/random-joke-genrator/static/css/main.57b379ed.css.map",
+    "main.a0d23080.js.map": "/random-joke-genrator/static/js/main.a0d23080.js.map",
+    "488.9aa01a45.chunk.js.map": "/random-joke-genrator/static/js/488.9aa01a45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57b379ed.css",
-    "static/js/main.1a8ffe2b.js"
+    "static/js/main.a0d23080.js"
   ]
 }
